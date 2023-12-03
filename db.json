@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@gmail.com",
+      "password": "12345678aA",
+      "date": 1700313547023
+    },
+    {
+      "id": 2,
+      "email": "a@gmail.com",
+      "password": "1234567aA",
+      "date": 1700313547023
+    },
+    {
+      "email": "321321@dmad.com",
+      "password": "123456987fG",
+      "date": 1701266628256,
+      "id": 3
+    },
+    {
+      "email": "asd@gh.com",
+      "password": "123456Abc",
+      "date": 1701513676185,
+      "id": 4
+    }
+  ],
+  "notes": [
+    {
+      "title": "Third note new",
+      "text": "dsadasda",
+      "date": 1701598704278,
+      "authorId": 1,
+      "id": 10
+    },
+    {
+      "id": 1,
+      "authorId": 1,
+      "title": "Первая заметкавыфвыф",
+      "text": "Тело первой заметки",
+      "date": 1700313547024
+    },
+    {
+      "id": 2,
+      "authorId": 1,
+      "title": "Вторая заметка",
+      "text": "Тело вторвой заметки",
+      "date": 1701605551310
+    },
+    {
+      "id": 3,
+      "authorId": 2,
+      "title": "Первая заметка новая",
+      "text": "Тело первой заметкиdsaвыфвфы",
+      "date": 1700313547024
+    },
+    {
+      "id": 5,
+      "authorId": 2,
+      "title": "dsadsa",
+      "text": "Тело вторвой заметкиdsad",
+      "date": 1700313547024
+    },
+    {
+      "title": "First note",
+      "text": "dsadasddsad",
+      "date": 1701525193700,
+      "authorId": 4,
+      "id": 7
+    },
+    {
+      "title": "dsadsa",
+      "text": "dsadasddsad",
+      "date": 1701525195540,
+      "authorId": 4,
+      "id": 8
+    }
+  ]
+}
